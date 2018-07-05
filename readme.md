@@ -1,4 +1,5 @@
 ##vue-previewer
+
 ###一个基于vue的图片预览插件.
 
 #### 安装 `npm i @redbuck/vue-preview`
