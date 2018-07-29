@@ -8,6 +8,9 @@
 <previewer :src="path" :ratio="0.5" :scale="1.8" ratio-ranger="1,10"></previewer>
 ```
 
+### [DEMO](https://xty1992a.github.io/view/preview/#/)
+
+
 #### props
 <table style="text-align: center">
   <thead>
